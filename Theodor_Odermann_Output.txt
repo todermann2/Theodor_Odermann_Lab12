@@ -1,0 +1,4 @@
+Apples Mean: 6.23, Apples Median: 6.50
+Bananas Mean: 6.27, Bananas Median: 6.00
+Strawberries Mean: 5.98, Strawberries Median: 6.00
+All Fruit Mean: 6.16, All Fruit Median: 6.00
